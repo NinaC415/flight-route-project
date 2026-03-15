@@ -81,8 +81,13 @@ score = calculate_route_score(
 print("Balanced score:", score)
 ```
 
-Run tests:
+## Tests
+
+All test files are in the `test/` directory, and each file contains one
+test function.
+
+Run one test file:
 
 ```bash
-pytest -q
+pytest -q test/test_calculate_route_price.py
 ```
