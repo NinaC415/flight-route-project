@@ -1,4 +1,8 @@
-"""Functions used in the flight route project."""
+"""Functions used in the flight route project.
+
+Project repository:
+https://github.com/NinaC415/flight-route-project
+"""
 
 
 def find_direct_flights(flights, origin, destination):

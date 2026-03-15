@@ -5,6 +5,9 @@ airports. It can calculate the total duration and total price of each
 route. It can also recommend the best route based on time, price, or
 a balanced score that uses both time and price.
 
+This project is available on GitHub:
+https://github.com/NinaC415/flight-route-project
+
 ## Function Overview
 - `find_direct_flights`: Returns all direct flights from an origin airport
   to a destination airport.
